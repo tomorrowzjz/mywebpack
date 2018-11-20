@@ -1,4 +1,6 @@
 /**
  * Created by chaom on 2018/11/20.
  */
-document.write('welcome suzhou');
+import $ from 'jquery';
+$('body').html("test");
+console.log('one');
